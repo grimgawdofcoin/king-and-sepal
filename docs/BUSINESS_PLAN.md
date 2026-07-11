@@ -2,12 +2,22 @@
 
 ## Phases
 
-1. **Legal formation** — form the LLC, register for a business tax receipt.
-2. **Sourcing** — cacao/cocoa butter sourcing (leads under consideration:
-   Kokkow, Cocoa Family, Santiago — need vetting, not yet confirmed suppliers).
-3. **Labeling** — nutrition/ingredient labeling, compliant with cottage-food
-   or standard food-manufacturing rules depending on production volume and
-   state (see [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md)).
+1. **Legal formation** — form a Florida LLC, register for a business tax
+   receipt.
+2. **Sourcing** — cacao/cocoa butter sourcing. Original leads (Kokkow, Cocoa
+   Family, Santiago) still need vetting/contact info. New candidate
+   suppliers identified: Cocoa Supply, Chocolate Alchemy Wholesale, Santa
+   Barbara Chocolate — see [`RESEARCH.md`](RESEARCH.md). A draft inquiry
+   email is waiting in Gmail drafts, unsent.
+3. **Labeling** — production is home-kitchen under Florida's cottage food
+   law: no license/permit/inspection required up to $250K/yr in gross
+   sales, candy/chocolate/confections are an allowed category, but every
+   package needs business name/address, product name, ingredients by
+   descending weight, net weight, allergens, and the verbatim disclaimer
+   "Made in a cottage food operation that is not subject to Florida's food
+   safety regulations" in ≥10-point type. Sales must stay direct-to-consumer
+   and in-state (online/social/Etsy okay; no wholesale, no interstate
+   shipping) unless/until moving to a licensed commercial kitchen.
 4. **LLC formation + Shopify setup** — legal entity live, store scaffolded.
 5. **Hand-selling 30–50 units** — sell directly (in person / direct outreach)
    before any public launch, to validate the product and gather real feedback.

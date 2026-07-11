@@ -3,34 +3,34 @@
 Decisions only the founder can make. The daily background work will keep
 researching around these, but won't resolve them unilaterally.
 
-## Product
-- [ ] Final product form: confirmed as the melt-or-eat cacao bar (pivoted
-      away from the original "exclusive coffee company" idea) — is this
-      pivot final, or still being weighed against the coffee concept?
-- [ ] Launch flavor lineup: French Vanilla + Caramel confirmed — any others
-      for Drop 01, or keep it to two?
-- [ ] Target melt behavior: fully dissolve with no residue vs. leave a
-      cocoa-butter "float" — affects both recipe and how it's marketed.
+## Resolved (2026-07-11)
+- [x] Product pivot: **locked in** — melt-or-eat cacao bar, not the coffee
+      company concept.
+- [x] Launch flavors: **French Vanilla, Caramel, Hazelnut**.
+- [x] Melt behavior: **fully dissolve**, no residue. This has a real recipe
+      consequence — see `RESEARCH.md`, needs a food-grade emulsifier
+      (lecithin), not just plain cocoa butter.
+- [x] LLC / business tax receipt state: **Florida**.
+- [x] Production path: **home kitchen**, for now. Florida's cottage food
+      law supports this — see `RESEARCH.md`.
+- [x] Brand name: **King & Sepal is final**.
 
-## Legal / entity
-- [ ] Which US state for the LLC and business tax receipt? (Screenshot
-      context suggested Florida-shaped fee numbers — $125 filing / $138.75
-      annual report — but this needs the founder's actual home/business
-      state, since that changes the numbers.)
-- [ ] Production path: cottage-food license (lower cost, volume-capped) vs.
-      shared/commercial kitchen (higher cost, no volume cap) — depends on
-      state rules and how big Drop 01 is meant to be.
+## Still open
 
-## Sourcing
-- [ ] Vet the Kokkow / Cocoa Family / Santiago supplier leads — any of
-      these already contacted, or all still cold?
-- [ ] Real quote needed before the $500 budget can be allocated across
-      phases with any confidence.
+### Sourcing
+- [ ] Three candidate cocoa-butter suppliers identified (Cocoa Supply,
+      Chocolate Alchemy Wholesale, Santa Barbara Chocolate — see
+      `RESEARCH.md`). A draft wholesale-inquiry email is sitting in Gmail
+      drafts, unaddressed. Which supplier(s) should it go to, and do you
+      want to send it as-is or adjust it first?
+- [ ] Once a real quote comes back, the $500 budget can be allocated
+      across phases with confidence — right now the cacao line is still a
+      guess.
 
-## Brand
-- [ ] Is "King & Sepal" the final name, or still open?
-- [ ] Packaging direction/references (Ffern uses compostable mushroom trays
-      + textured paper + original art — what's the King & Sepal analog?).
+### Brand
+- [ ] Packaging direction/references — still unsure. Ffern uses
+      compostable mushroom trays + textured paper + original art. Worth
+      a follow-up pass once there's bandwidth to mood-board options.
 
 ## Guardrails (confirmed, recorded here so they don't drift)
 - Spend limit: ~$500 for this phase.
@@ -38,3 +38,7 @@ researching around these, but won't resolve them unilaterally.
   send them — founder reviews and sends.
 - No LLC filing, bank account opening, or other legal/financial commitment
   without explicit founder go-ahead per action.
+- Production is home-kitchen / Florida cottage food operation for now: stay
+  inside that law's limits (no wholesale, no interstate shipping, in-state
+  online sales only, required label disclaimer) unless the founder decides
+  to move to a licensed commercial kitchen.

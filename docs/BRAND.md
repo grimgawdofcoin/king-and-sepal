@@ -7,8 +7,14 @@ A solid cacao-based bar with two uses:
 2. **Melt it** — drop it in hot coffee, tea, or milk, where it dissolves into a
    flavored creamer.
 
-Launch flavors under discussion: **French Vanilla**, **Caramel**. Candidates to
-consider later: mocha, cinnamon, hazelnut, salted caramel.
+Launch flavors, confirmed: **French Vanilla**, **Caramel**, **Hazelnut**.
+
+Melt target, confirmed: **fully dissolves, no residue** — eat-side is easy
+(any solid chocolate works), but the melt-side needs the bar to actually
+disperse into a hot drink rather than just float as an oil slick. Plain
+cocoa butter won't do that on its own; it needs a food-grade emulsifier
+(soy or sunflower lecithin) blended in so the fat disperses into the
+water-based drink instead of separating. See [`RESEARCH.md`](RESEARCH.md).
 
 This is a real, buildable product: it sits at the intersection of two known
 categories — "coffee bomb" melts (chocolate shells that dissolve in hot liquid)
@@ -38,5 +44,6 @@ King & Sepal borrows the shape of this, not the fragrance industry specifics:
 
 ## Open creative direction
 
-Name, exact flavor lineup, price point, and packaging are still being decided
-— see [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
+Name (**King & Sepal**), flavor lineup, and melt behavior are locked. Price
+point and packaging are still being decided — see
+[`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
