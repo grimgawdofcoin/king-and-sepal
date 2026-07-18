@@ -28,9 +28,12 @@ researching around these, but won't resolve them unilaterally.
       guess.
 
 ### Brand
-- [ ] Packaging direction/references — still unsure. Ffern uses
-      compostable mushroom trays + textured paper + original art. Worth
-      a follow-up pass once there's bandwidth to mood-board options.
+- [ ] Packaging direction — narrowed to two concrete options in
+      `PACKAGING.md` (minimal/kraft vs. premium/art-forward), each with
+      candidate suppliers. Founder to pick a direction (or reject both).
+- [ ] Formal USPTO trademark search still hasn't been done (an automated
+      attempt was inconclusive — the search tool isn't scrapeable). Needed
+      before any public use of the name.
 
 ## Guardrails (confirmed, recorded here so they don't drift)
 - Spend limit: ~$500 for this phase.

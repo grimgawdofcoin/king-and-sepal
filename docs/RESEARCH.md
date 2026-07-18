@@ -100,6 +100,37 @@ no residue" target. Sources:
 https://mtroyal.com.tr/en/lecithin-for-coffee-creamers/,
 https://www.sciencedirect.com/science/article/abs/pii/S0260877417301516.
 
+## 2026-07-18 — packaging, recipe ratios, trademark check attempt
+
+### Packaging suppliers
+Identified five compostable/recyclable bar-packaging suppliers serving
+small-batch orders (Good Start Packaging, TIPA Eco Packaging, Eco Custom
+Packaging, BOWE PACK, Roastar) and split them into two directions —
+minimal/kraft (cheap, low MOQ, fits the 30–50 unit hand-sell phase) vs.
+premium/art-forward (closer to Ffern's actual unboxing experience, better
+suited to Drop 01 once there's revenue). Full writeup and links in
+`PACKAGING.md`. Recommended starting with the minimal/kraft direction to
+preserve budget for sourcing and legal formation — not a final decision,
+just a narrowed set of options for the founder to pick from.
+
+### Recipe ratio first draft
+Wrote a non-binding starting-point formulation in `RECIPE_NOTES.md`:
+~60–70% cacao butter/solids, ~15–35% sweetener (craft dark-chocolate
+ranges), ~0.4–1.4% lecithin (the emulsifier needed for the fully-dissolve
+target), plus flavor-specific notes for French Vanilla, Caramel, and
+Hazelnut. Flagged that hazelnut paste is itself fat-heavy and could work
+against the dissolve target if not balanced carefully, and that shipping
+heat in Florida is a real risk given cocoa butter's ~93–101°F melting
+point — needs real testing, not just a spec on paper.
+
+### Trademark search — inconclusive
+Attempted an automated USPTO check for "King & Sepal" / "King and Sepal."
+The USPTO's trademark search (tmsearch.uspto.gov) is a JS-driven
+application that isn't reachable through basic web search/fetch tooling —
+no direct hit or miss could be confirmed this way. This still needs either
+a manual search at https://tmsearch.uspto.gov/ or a professional
+trademark-clearance search before any public use of the name. Not done yet.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -107,7 +138,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0260877417301516.
 - Real supplier quotes — reach out to the three candidate suppliers (or the
   original Kokkow/Cocoa Family/Santiago leads if the founder has contact
   info) once a direction is picked.
-- Direct trademark search (USPTO TESS) before any public use of the name,
-  even though it's now confirmed as final internally.
-- First-pass recipe ratio (cocoa butter : lecithin : sweetener : flavoring)
-  for each of the three launch flavors.
+- A real, manual USPTO trademark search (automated attempt was
+  inconclusive — see above) before any public use of the name.
+- Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
+  literature-derived percentages.
