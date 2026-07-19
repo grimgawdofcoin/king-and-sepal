@@ -31,9 +31,13 @@ researching around these, but won't resolve them unilaterally.
 - [ ] Packaging direction — narrowed to two concrete options in
       `PACKAGING.md` (minimal/kraft vs. premium/art-forward), each with
       candidate suppliers. Founder to pick a direction (or reject both).
-- [ ] Formal USPTO trademark search still hasn't been done (an automated
-      attempt was inconclusive — the search tool isn't scrapeable). Needed
-      before any public use of the name.
+- [ ] Price point — proposed $12–18/bar in `PRICING.md`, with reasoning.
+      Founder to confirm, adjust, or reject.
+- [ ] Formal USPTO trademark search still hasn't been done. Two automated
+      attempts both failed (search UI isn't scrapeable, API endpoint
+      returns 403) — this genuinely needs a human: either a manual search
+      at tmsearch.uspto.gov, or a paid clearance service. Needed before any
+      public use of the name.
 
 ## Guardrails (confirmed, recorded here so they don't drift)
 - Spend limit: ~$500 for this phase.

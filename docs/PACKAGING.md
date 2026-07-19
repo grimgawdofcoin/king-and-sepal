@@ -41,3 +41,19 @@ materials, found via web search — none contacted yet:
 Recommendation for the hand-sell phase (30–50 units): start with option 1 —
 low cost, low MOQ, keeps the $500 budget mostly available for cacao sourcing
 and legal formation. Revisit option 2 for Drop 01 once there's real revenue.
+
+## Shipping in Florida heat — a real cost line, not just a wrapper choice
+Chocolate generally starts melting above ~75°F, and Florida ambient/porch
+temperatures exceed that most of the year — this affects both packaging and
+budget, not just the recipe. Standard mitigations:
+- Insulated shipping (foam/bubble liner, ≥1" thick) + gel ice packs, good
+  for roughly 24–48 hours in transit.
+- Disposable styrofoam coolers run ~$3.50 each as a budget option; sized
+  insulated boxes/liners cost more.
+- Expedited (2-day or faster) shipping during warm months, and/or limiting
+  shipping windows to cooler months/times of day when starting out.
+- For the hand-sell phase specifically, in-person handoff sidesteps this
+  entirely — worth leaning on hand-selling locally before committing budget
+  to cold-chain shipping supplies.
+Source: See `RESEARCH.md` for links (See's Candies, IPC chocolate shipping
+guide, TheChocolateLife forums).

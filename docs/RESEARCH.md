@@ -131,6 +131,39 @@ no direct hit or miss could be confirmed this way. This still needs either
 a manual search at https://tmsearch.uspto.gov/ or a professional
 trademark-clearance search before any public use of the name. Not done yet.
 
+## 2026-07-19 — pricing, shipping-heat mitigation, second trademark attempt
+
+### Pricing reference points
+Craft/bean-to-bar chocolate retails ~$7–16/bar individually or $40–80 per
+DTC subscription shipment (Dandelion, Fruition, Pump Street, Dick Taylor,
+via JayArr Chocolate's 2026 subscription roundup). Proposed a $12–18/bar
+range for King & Sepal given it's a novel, no-direct-competitor product
+sold via exclusive drops — full reasoning and caveats in new `PRICING.md`.
+Not a final price; flagged that real per-unit cost (cacao, lecithin,
+packaging, shipping) still needs to be checked against this once a cacao
+quote and packaging direction are locked.
+
+### Shipping-heat mitigation
+Confirmed the shipping-heat risk flagged on 2026-07-18 is real and
+common: chocolate generally starts melting above ~75°F, which is most of
+the year in Florida. Standard industry mitigations: insulated liners +
+gel ice packs (good for ~24–48 hrs transit), budget styrofoam coolers
+(~$3.50 each), expedited shipping in warm months, or — simplest for the
+hand-sell phase — skip shipping entirely and hand off in person. Sources:
+https://www.sees.com/newsandchews/how-we-ship-chocolate-so-it-doesnt-melt,
+https://ipcpack.com/resources/shipping-chocolate-guide/,
+https://forums.thechocolatelife.com/community/forums/new_posts/4705/summer-shipping-tips-tricks.
+Added to `PACKAGING.md` since it's a packaging/logistics decision, not just
+a recipe one.
+
+### Trademark search — still inconclusive
+Tried a second approach (direct fetch of USPTO's search API endpoint
+instead of the search UI) — got an HTTP 403, same dead end as the first
+attempt. This tooling genuinely cannot complete a USPTO clearance search;
+it needs a human doing a manual search at tmsearch.uspto.gov, or a paid
+clearance service. Not marking this "researched" again — it's blocked for
+this kind of agent, full stop, and shouldn't be re-attempted the same way.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -138,7 +171,10 @@ trademark-clearance search before any public use of the name. Not done yet.
 - Real supplier quotes — reach out to the three candidate suppliers (or the
   original Kokkow/Cocoa Family/Santiago leads if the founder has contact
   info) once a direction is picked.
-- A real, manual USPTO trademark search (automated attempt was
-  inconclusive — see above) before any public use of the name.
+- A real, manual or professional USPTO trademark search — automated
+  attempts (search UI, then the API endpoint) both failed; this needs a
+  human, not another automated pass.
 - Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
   literature-derived percentages.
+- Once a cacao quote and packaging direction land, check real per-unit
+  cost against the proposed $12–18/bar price in `PRICING.md`.
