@@ -17,6 +17,20 @@ researching around these, but won't resolve them unilaterally.
 
 ## Still open
 
+### Legal / entity (new, 2026-07-20)
+- [ ] Which Florida **county** (and city, if inside city limits) is the
+      business based in? This blocks two separate things: the Local
+      Business Tax Receipt and the home occupation permit are both issued
+      at the county/city level — see `LEGAL_CHECKLIST.md`. Right now
+      `BUSINESS_PLAN.md`'s $50–150 estimate is a rough statewide range,
+      not a real number.
+- [ ] Registered agent for the LLC — needs a named person/entity with a
+      physical Florida address. Founder, or a paid service? Not decided.
+- [ ] LLC name availability at Sunbiz (the *state* registry — separate
+      from the *federal* trademark check below) hasn't been checked yet.
+      Automated attempt was blocked (403), same pattern as the trademark
+      search — needs a human to run it manually.
+
 ### Sourcing
 - [ ] Three candidate cocoa-butter suppliers identified (Cocoa Supply,
       Chocolate Alchemy Wholesale, Santa Barbara Chocolate — see

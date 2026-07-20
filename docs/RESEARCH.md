@@ -164,6 +164,52 @@ it needs a human doing a manual search at tmsearch.uspto.gov, or a paid
 clearance service. Not marking this "researched" again — it's blocked for
 this kind of agent, full stop, and shouldn't be re-attempted the same way.
 
+## 2026-07-20 — legal formation sequence, zoning risk
+
+### Cottage food registration — reconfirmed
+Re-verified: Florida cottage food operations do not need to register with
+FDACS or hold a permit (Fla. Stat. § 500.80 exempts qualifying operations
+from permitting/inspection). One outlier source claimed FDACS registration
+is mandatory; the official FDACS page and the majority of other sources
+disagree, so treating "no registration" as correct. Source:
+https://www.fdacs.gov/Business-Services/Food-Establishments/Cottage-Foods.
+
+### LLC formation sequence
+Mapped the actual Florida LLC formation steps: name check at Sunbiz (state
+registry — separate from the federal trademark check), registered agent
+(named person/entity with a physical FL address), file Articles of
+Organization online ($100 state fee + $25 registered agent fee = $125,
+matches the existing budget line), get a free EIN directly from the IRS
+(watch for third-party sites that charge for this). Processing is
+~1–2 business days online. Full writeup in new `LEGAL_CHECKLIST.md`.
+Sources: https://dos.fl.gov/sunbiz/start-business/efile/fl-llc/instructions/,
+https://efile.sunbiz.org/llc_file.html.
+
+### Business Tax Receipt is county/city-level, not state-level
+Discovered the existing $50–150 estimate in `BUSINESS_PLAN.md` was too
+coarse: Local Business Tax Receipts are issued by county tax collectors
+(and separately by city, if inside city limits), not a single statewide
+process — real fee and application steps depend on which county. This is
+now a blocking open question — see `OPEN_QUESTIONS.md`.
+
+### New risk found: home occupation zoning
+Florida Statute § 559.955 broadly protects home-based businesses statewide
+and blocks cities/counties from imposing food-specific licensing on top of
+cottage food law — but most FL cities/counties still require a separate
+**home occupation permit** confirming the business fits residential zoning,
+and the specifics vary a lot by city (example found: Tampa restricts
+storing/selling merchandise from the property). This hasn't been checked
+for the founder's actual location — same blocker as the tax receipt, needs
+the county/city. Sources: Fla. Stat. § 559.955
+(https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0559%2FSections%2F0559.955.html),
+https://legalclarity.org/how-to-get-a-home-occupation-permit-in-florida/.
+
+### Sunbiz name search — blocked, same pattern as USPTO
+Attempted to check "King & Sepal LLC" availability at Sunbiz's name search
+— blocked with HTTP 403, the same automated-access wall hit on the USPTO
+trademark search. This is a second instance of the same limitation: state
+and federal registry searches both need a human to actually run them.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -171,10 +217,12 @@ this kind of agent, full stop, and shouldn't be re-attempted the same way.
 - Real supplier quotes — reach out to the three candidate suppliers (or the
   original Kokkow/Cocoa Family/Santiago leads if the founder has contact
   info) once a direction is picked.
-- A real, manual or professional USPTO trademark search — automated
-  attempts (search UI, then the API endpoint) both failed; this needs a
-  human, not another automated pass.
+- A real, manual or professional USPTO trademark search, and a Sunbiz LLC
+  name-availability search — both automated attempts failed with 403; both
+  need a human, not another automated pass.
 - Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
   literature-derived percentages.
 - Once a cacao quote and packaging direction land, check real per-unit
   cost against the proposed $12–18/bar price in `PRICING.md`.
+- Once the county/city is known: real Business Tax Receipt fee/process and
+  home occupation permit requirements for that specific location.

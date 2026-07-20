@@ -3,7 +3,10 @@
 ## Phases
 
 1. **Legal formation** — form a Florida LLC, register for a business tax
-   receipt.
+   receipt. Full step-by-step sequence (name check, registered agent,
+   Articles of Organization, EIN, business tax receipt, home occupation
+   permit) in [`LEGAL_CHECKLIST.md`](LEGAL_CHECKLIST.md) — currently
+   blocked on knowing which Florida county/city the business is based in.
 2. **Sourcing** — cacao/cocoa butter sourcing. Original leads (Kokkow, Cocoa
    Family, Santiago) still need vetting/contact info. New candidate
    suppliers identified: Cocoa Supply, Chocolate Alchemy Wholesale, Santa
@@ -33,7 +36,8 @@ Founder-set spend limit: **up to ~$500** for this phase. Known/estimated costs:
 |---|---|
 | LLC filing | $125 |
 | Annual report | $138.75/yr |
-| Business tax receipt | ~$50–150 |
+| Business tax receipt | ~$50–150 (rough range — real fee depends on county/city, not yet known) |
+| Home occupation permit | TBD — county/city-dependent, not yet researched for a specific location |
 | Shopify | $5–39/mo |
 | Cacao / cocoa butter | TBD — depends on supplier quote |
 | Insurance | TBD |
