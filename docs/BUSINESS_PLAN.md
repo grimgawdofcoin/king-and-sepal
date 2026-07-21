@@ -36,8 +36,8 @@ Founder-set spend limit: **up to ~$500** for this phase. Known/estimated costs:
 |---|---|
 | LLC filing | $125 |
 | Annual report | $138.75/yr |
-| Business tax receipt | ~$50–150 (rough range — real fee depends on county/city, not yet known) |
-| Home occupation permit | TBD — county/city-dependent, not yet researched for a specific location |
+| Business tax receipt | Broward: $27–150. Miami-Dade: similar range + mandatory Home Occupation Permit paperwork. Final county not yet confirmed — see `LEGAL_CHECKLIST.md`. |
+| Home occupation permit | Broward: not required at county level. Miami-Dade: required (floor plan + affidavit), folded into the tax receipt process. |
 | Shopify | $5–39/mo |
 | Cacao / cocoa butter | TBD — depends on supplier quote |
 | Insurance | TBD |

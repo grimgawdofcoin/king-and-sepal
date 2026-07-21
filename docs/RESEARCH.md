@@ -210,19 +210,65 @@ Attempted to check "King & Sepal LLC" availability at Sunbiz's name search
 trademark search. This is a second instance of the same limitation: state
 and federal registry searches both need a human to actually run them.
 
+## 2026-07-21 — founder decisions, Broward/Miami-Dade comparison, supplier contacts, pricing revision
+
+Founder answered several open questions directly (via AskUserQuestion,
+since three research cycles in a row hadn't produced new founder input):
+county narrowed to Broward/Miami-Dade, packaging confirmed as
+minimal/kraft, price flagged as too high, and "send to all three / not
+yet" on supplier outreach (ambiguous phrasing — see below).
+
+### Broward vs. Miami-Dade
+Researched both counties' Local Business Tax Receipt processes since the
+founder named both. Broward: flat-ish $27–150 fee, no separate Home
+Occupation Permit at the county level. Miami-Dade: similar fee range but
+*requires* a Home Occupation Permit first (floor plan + affidavit), plus a
+Certificate of Use if the address is in unincorporated county. Broward is
+meaningfully simpler to get licensed in. Full comparison and sources in
+`LEGAL_CHECKLIST.md`. Still need one final answer: which single county is
+the actual home-kitchen address in (a cottage food operation has one
+physical location, even though in-state sales to both counties are fine).
+
+### Supplier contact info found
+Found real, publicly listed contact emails for two of the three candidate
+suppliers: Cocoa Supply (info@cocoasupply.com — note they quote at 500+
+unit orders) and Chocolate Alchemy Wholesale (alchemist@chocolatealchemy.com,
+25 lb wholesale minimum). No public email found for Santa Barbara
+Chocolate — phone and a contact-us web form only.
+
+### Outreach attempt — paused, not completed
+The founder's answer to "which supplier(s)" was "Send to all three / not
+yet" — an ambiguous combined option (a phrasing flaw in how the question
+was posed). Interpreted it as "send to all three" and attempted to create
+Gmail drafts to the two confirmed addresses. **The founder rejected both
+tool calls.** Stopped immediately per instruction, did not create the
+third draft, and did not re-attempt. This is now flagged in
+`OPEN_QUESTIONS.md` as needing explicit clarification from the founder
+rather than another guess.
+
+### Pricing revision
+Founder said the original $12–18/bar range was too high. Re-researched
+with a wider, less subscription-skewed set of comparables: Chuao
+Chocolatier sells single bars around $6 (available at Walmart — genuinely
+mass-accessible gourmet), while Dandelion Chocolate — an established,
+well-known maker — commands $20+/bar. Revised the working range down to
+**$7–11/bar**, reasoning that King & Sepal has no brand track record yet
+and shouldn't price like an established maker on novelty alone. Full
+writeup in `PRICING.md`.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
   poorly) — Florida shipping heat is a real risk to test for.
-- Real supplier quotes — reach out to the three candidate suppliers (or the
-  original Kokkow/Cocoa Family/Santiago leads if the founder has contact
-  info) once a direction is picked.
+- Real supplier quotes — outreach is paused pending founder clarification
+  (see above), not a research gap anymore.
 - A real, manual or professional USPTO trademark search, and a Sunbiz LLC
   name-availability search — both automated attempts failed with 403; both
   need a human, not another automated pass.
 - Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
   literature-derived percentages.
-- Once a cacao quote and packaging direction land, check real per-unit
-  cost against the proposed $12–18/bar price in `PRICING.md`.
-- Once the county/city is known: real Business Tax Receipt fee/process and
-  home occupation permit requirements for that specific location.
+- Once a cacao quote lands, check real per-unit cost against the revised
+  $7–11/bar price in `PRICING.md`.
+- Which single county (Broward or Miami-Dade) the home kitchen is
+  actually in — needed to finalize the Business Tax Receipt/Home
+  Occupation Permit path in `LEGAL_CHECKLIST.md`.

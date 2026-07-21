@@ -17,13 +17,22 @@ researching around these, but won't resolve them unilaterally.
 
 ## Still open
 
-### Legal / entity (new, 2026-07-20)
-- [ ] Which Florida **county** (and city, if inside city limits) is the
-      business based in? This blocks two separate things: the Local
-      Business Tax Receipt and the home occupation permit are both issued
-      at the county/city level — see `LEGAL_CHECKLIST.md`. Right now
-      `BUSINESS_PLAN.md`'s $50–150 estimate is a rough statewide range,
-      not a real number.
+## Resolved (2026-07-21)
+- [x] Packaging direction: **minimal/kraft** (founder confirmed).
+- [x] Price point: original $12–18/bar was **too high** per founder
+      feedback — revised down to **$7–11/bar**, reasoning in `PRICING.md`.
+      Still worth a final explicit confirm once the founder sees the
+      revised number, but treat $7–11 as the working range now.
+
+## Still open
+
+### Legal / entity
+- [ ] County narrowed to **Broward or Miami-Dade** but not resolved to one
+      — a home-kitchen cottage food operation has a single physical
+      address, so this needs a final answer. The two counties have
+      meaningfully different processes (Miami-Dade requires an extra Home
+      Occupation Permit with floor plan/affidavit; Broward doesn't) — full
+      comparison in `LEGAL_CHECKLIST.md`.
 - [ ] Registered agent for the LLC — needs a named person/entity with a
       physical Florida address. Founder, or a paid service? Not decided.
 - [ ] LLC name availability at Sunbiz (the *state* registry — separate
@@ -32,21 +41,22 @@ researching around these, but won't resolve them unilaterally.
       search — needs a human to run it manually.
 
 ### Sourcing
-- [ ] Three candidate cocoa-butter suppliers identified (Cocoa Supply,
-      Chocolate Alchemy Wholesale, Santa Barbara Chocolate — see
-      `RESEARCH.md`). A draft wholesale-inquiry email is sitting in Gmail
-      drafts, unaddressed. Which supplier(s) should it go to, and do you
-      want to send it as-is or adjust it first?
+- [ ] **Outreach paused, 2026-07-21**: found real contact emails for two
+      of the three candidate suppliers (Cocoa Supply: info@cocoasupply.com;
+      Chocolate Alchemy Wholesale: alchemist@chocolatealchemy.com; no
+      public email found for Santa Barbara Chocolate — phone/contact-form
+      only). Attempted to create Gmail drafts to the two confirmed
+      addresses after the founder answered "send to all three / not yet";
+      the founder rejected those tool calls, so **no drafts were created**.
+      Not re-attempting until the founder clarifies how they want this
+      handled — the unsent draft addressed to the founder's own email
+      (from earlier) and the markdown copy in `docs/drafts/` are still
+      there if useful.
 - [ ] Once a real quote comes back, the $500 budget can be allocated
       across phases with confidence — right now the cacao line is still a
       guess.
 
 ### Brand
-- [ ] Packaging direction — narrowed to two concrete options in
-      `PACKAGING.md` (minimal/kraft vs. premium/art-forward), each with
-      candidate suppliers. Founder to pick a direction (or reject both).
-- [ ] Price point — proposed $12–18/bar in `PRICING.md`, with reasoning.
-      Founder to confirm, adjust, or reject.
 - [ ] Formal USPTO trademark search still hasn't been done. Two automated
       attempts both failed (search UI isn't scrapeable, API endpoint
       returns 403) — this genuinely needs a human: either a manual search

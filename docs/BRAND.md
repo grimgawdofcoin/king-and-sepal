@@ -44,6 +44,7 @@ King & Sepal borrows the shape of this, not the fragrance industry specifics:
 
 ## Open creative direction
 
-Name (**King & Sepal**), flavor lineup, and melt behavior are locked. Price
-point and packaging are still being decided — see
-[`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
+Name (**King & Sepal**), flavor lineup, melt behavior, packaging
+direction (minimal/kraft), and price range ($7–11/bar) are locked. See
+[`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md) for what's still open (county,
+registered agent, trademark search, sourcing outreach).
