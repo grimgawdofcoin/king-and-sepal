@@ -15,24 +15,25 @@ researching around these, but won't resolve them unilaterally.
       law supports this — see `RESEARCH.md`.
 - [x] Brand name: **King & Sepal is final**.
 
-## Still open
-
 ## Resolved (2026-07-21)
 - [x] Packaging direction: **minimal/kraft** (founder confirmed).
 - [x] Price point: original $12–18/bar was **too high** per founder
       feedback — revised down to **$7–11/bar**, reasoning in `PRICING.md`.
       Still worth a final explicit confirm once the founder sees the
       revised number, but treat $7–11 as the working range now.
+- [x] County: **Broward** (confirmed 2026-07-21). Local Business Tax
+      Receipt fee $27–150 depending on business type, no separate Home
+      Occupation Permit required at the county level (may still apply at
+      the city level if the address is inside city limits — see
+      `LEGAL_CHECKLIST.md`). This unblocks the Business Tax Receipt step
+      in `LEGAL_CHECKLIST.md`.
 
 ## Still open
 
 ### Legal / entity
-- [ ] County narrowed to **Broward or Miami-Dade** but not resolved to one
-      — a home-kitchen cottage food operation has a single physical
-      address, so this needs a final answer. The two counties have
-      meaningfully different processes (Miami-Dade requires an extra Home
-      Occupation Permit with floor plan/affidavit; Broward doesn't) — full
-      comparison in `LEGAL_CHECKLIST.md`.
+- [ ] If the Broward address is inside a city (vs. unincorporated county),
+      that city may have its own business tax receipt/zoning/home
+      occupation rules on top of the county process — which city, if any?
 - [ ] Registered agent for the LLC — needs a named person/entity with a
       physical Florida address. Founder, or a paid service? Not decided.
 - [ ] LLC name availability at Sunbiz (the *state* registry — separate

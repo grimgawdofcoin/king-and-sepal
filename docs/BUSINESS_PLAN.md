@@ -2,11 +2,12 @@
 
 ## Phases
 
-1. **Legal formation** — form a Florida LLC, register for a business tax
-   receipt. Full step-by-step sequence (name check, registered agent,
-   Articles of Organization, EIN, business tax receipt, home occupation
-   permit) in [`LEGAL_CHECKLIST.md`](LEGAL_CHECKLIST.md) — currently
-   blocked on knowing which Florida county/city the business is based in.
+1. **Legal formation** — form a Florida LLC in **Broward County**,
+   register for a Broward Local Business Tax Receipt. Full step-by-step
+   sequence (name check, registered agent, Articles of Organization, EIN,
+   business tax receipt) in [`LEGAL_CHECKLIST.md`](LEGAL_CHECKLIST.md) —
+   remaining blockers are the registered agent choice and the LLC name
+   check, both needing founder/human action.
 2. **Sourcing** — cacao/cocoa butter sourcing. Original leads (Kokkow, Cocoa
    Family, Santiago) still need vetting/contact info. New candidate
    suppliers identified: Cocoa Supply, Chocolate Alchemy Wholesale, Santa
@@ -36,8 +37,8 @@ Founder-set spend limit: **up to ~$500** for this phase. Known/estimated costs:
 |---|---|
 | LLC filing | $125 |
 | Annual report | $138.75/yr |
-| Business tax receipt | Broward: $27–150. Miami-Dade: similar range + mandatory Home Occupation Permit paperwork. Final county not yet confirmed — see `LEGAL_CHECKLIST.md`. |
-| Home occupation permit | Broward: not required at county level. Miami-Dade: required (floor plan + affidavit), folded into the tax receipt process. |
+| Business tax receipt (Broward County) | $27–150, depending on business classification |
+| Home occupation permit | Not required at the Broward County level |
 | Shopify | $5–39/mo |
 | Cacao / cocoa butter | TBD — depends on supplier quote |
 | Insurance | TBD |

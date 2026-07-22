@@ -36,55 +36,31 @@ gets submitted**, per the guardrails in `OPEN_QUESTIONS.md`.
   third-party sites that charge for this. Needed to open a business bank
   account even without employees.
 
-## 5. Local Business Tax Receipt — Broward vs. Miami-Dade (2026-07-21)
-Founder narrowed this to Broward and/or Miami-Dade. These two counties
-have meaningfully different requirements, so here's both — **still need
-one final answer: which single county is the actual home-kitchen address
-in?** A cottage food operation has one physical location; it can't be
-registered in two counties at once, though selling to customers in both is
-fine under cottage food law (in-state sales aren't restricted by county).
-
-**Broward County:**
+## 5. Local Business Tax Receipt — Broward County (confirmed 2026-07-21)
 - Every business, including home-based one-person operations, needs a
   Broward Local Business Tax Receipt (some exemptions exist, unlikely to
   apply here).
-- Fee: **$27–$150** depending on business type/category.
+- Fee: **$27–$150** depending on business type/category — exact figure
+  depends on how the business is classified when applying.
 - Valid Oct 1–Sep 30, renews annually.
 - No separate Certificate of Use required for home-based businesses at the
-  *county* level. If the address is inside a city (vs. unincorporated
-  county), that city may have its own additional business tax receipt,
-  zoning, home occupation, or sign rules — check the specific city.
+  *county* level.
+- **Still open**: if the address is inside a city (vs. unincorporated
+  Broward County), that city may have its own additional business tax
+  receipt, zoning, home occupation, or sign rules on top of the county
+  process — which city, if any, is still unconfirmed.
 - Source: https://browardtax.org/faqs/local-business-tax/,
   https://www.broward.org/RecordsTaxesTreasury/taxcollector/Pages/LocalBusinessTaxes.aspx.
 
-**Miami-Dade County:**
-- Requires a **Home Occupation Permit (HOP)** from the Department of
-  Regulatory and Economic Resources *before* the Business Tax Receipt —
-  needs a floor plan of the residence showing the home office/kitchen
-  location and dimensions, plus a home occupation affidavit.
-  This is a materially bigger paperwork lift than Broward's process.
-- Businesses in **unincorporated** Miami-Dade also need a separate
-  Certificate of Use and Occupancy on top of the Business Tax Receipt.
-- Apply/pay via https://miamidade.county-taxes.com/btexpress or
-  (305) 279-4949.
-- Source: https://mdctaxcollector.gov/services/local-business-tax-receipt,
-  https://www.cutlerbay-fl.gov/finance/faq/what-documents-must-i-provide-my-home-based-business-order-obtain-local-business-tax.
-
-**Bottom line**: if there's a real choice between the two (e.g. the
-founder could set up the home kitchen in either county), Broward is
-simpler and cheaper to get licensed in — no separate Home Occupation
-Permit/floor-plan/affidavit requirement at the county level, unlike
-Miami-Dade. If the home kitchen's address is fixed already, that answer
-determines which process applies, not a preference.
-
-## 6. Home occupation permit — general FL context
+## 6. Home occupation permit — not required at the Broward County level
 Florida Statute § 559.955 broadly protects home-based businesses statewide
 and blocks cities/counties from requiring a separate food license or
-inspecting the home kitchen (cottage food law already covers that). But as
-shown above, Miami-Dade requires a formal Home Occupation Permit process
-regardless; Broward's home occupation rules mostly show up at the *city*
-level (if inside city limits) rather than the county level. Source:
-Fla. Stat. § 559.955
+inspecting the home kitchen (cottage food law already covers that).
+Broward County itself doesn't require a separate Home Occupation Permit on
+top of the Business Tax Receipt (unlike Miami-Dade, which does — no longer
+relevant now that Broward is confirmed). If the address is inside a city,
+that city's own home-occupation rules may still apply — same open item as
+step 5. Source: Fla. Stat. § 559.955
 (https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0559%2FSections%2F0559.955.html),
 https://legalclarity.org/how-to-get-a-home-occupation-permit-in-florida/.
 
@@ -103,12 +79,10 @@ apply regardless.
 2. Pick registered agent
 3. File Articles of Organization ($125)
 4. Get EIN (free)
-5. Business Tax Receipt — Broward ($27–150, no extra HOP at county level)
-   or Miami-Dade ($27–150 range likely similar + mandatory Home Occupation
-   Permit with floor plan/affidavit, + Certificate of Use if unincorporated)
-6. Home occupation permit — folded into step 5 for Miami-Dade; check the
-   specific city's rules if the Broward address is inside city limits
+5. Business Tax Receipt — Broward County, $27–150 (confirmed 2026-07-21)
+6. Home occupation permit — not required at the Broward County level
 7. Cottage food: no action needed, just follow labeling rules
 
-Only remaining blocker on steps 5/6: **which single county** (Broward or
-Miami-Dade) is the actual home-kitchen address in.
+Remaining blockers: registered agent (step 2), LLC name check (step 1),
+and whether the Broward address is inside a city with its own additional
+rules (steps 5/6).
