@@ -74,6 +74,18 @@ required" as correct.) Source: https://www.fdacs.gov/Business-Services/Food-Esta
 Labeling and sales-channel rules (already in `BUSINESS_PLAN.md`) still
 apply regardless.
 
+## 8. Florida sales tax registration — new, 2026-07-21
+Unlike most cottage-food baked goods (bread, cookies, whole cakes — sold
+cold for takeaway, generally sales-tax exempt), **candy is explicitly
+taxable** in Florida. Since King & Sepal is a candy bar, this applies
+directly — it doesn't get the exemption most home bakeries rely on.
+- Register (free) with the Florida Department of Revenue as a sales tax
+  dealer before selling anything.
+- Collect and remit Florida sales tax on King & Sepal sales.
+- Tax collected counts toward the cottage food $250K/yr gross-sales cap.
+- Source: https://www.floridasalestax.com/taas/taa-15a-016-baked-goods-for-consumption-off-the-/,
+  https://handsoffsalestax.com/is-there-sales-tax-on-food-in-florida/.
+
 ## Sequence summary
 1. Name check (needs a human — automated check blocked)
 2. Pick registered agent
@@ -82,7 +94,10 @@ apply regardless.
 5. Business Tax Receipt — Broward County, $27–150 (confirmed 2026-07-21)
 6. Home occupation permit — not required at the Broward County level
 7. Cottage food: no action needed, just follow labeling rules
+8. Register (free) with FL Dept. of Revenue for sales tax — candy is
+   taxable, unlike most cottage-food goods
 
 Remaining blockers: registered agent (step 2), LLC name check (step 1),
 and whether the Broward address is inside a city with its own additional
-rules (steps 5/6).
+rules (steps 5/6). Step 8 has no blocker — it's free registration, ready
+to do once the LLC/EIN exist.

@@ -22,6 +22,12 @@
    safety regulations" in ≥10-point type. Sales must stay direct-to-consumer
    and in-state (online/social/Etsy okay; no wholesale, no interstate
    shipping) unless/until moving to a licensed commercial kitchen.
+   **Also**: unlike most cottage-food baked goods, **candy is taxable** in
+   Florida — most bakery items (bread, cookies, whole cakes) are sales-tax
+   exempt, but candy/confections are not. Need to register (free) with the
+   Florida Department of Revenue and collect/remit sales tax on King &
+   Sepal sales; tax collected counts toward the $250K cottage-food cap. See
+   `RESEARCH.md`.
 4. **LLC formation + Shopify setup** — legal entity live, store scaffolded.
 5. **Hand-selling 30–50 units** — sell directly (in person / direct outreach)
    before any public launch, to validate the product and gather real feedback.

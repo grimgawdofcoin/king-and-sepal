@@ -256,12 +256,41 @@ well-known maker — commands $20+/bar. Revised the working range down to
 and shouldn't price like an established maker on novelty alone. Full
 writeup in `PRICING.md`.
 
+## 2026-07-22 — Broward confirmed, sales tax finding, packaging suppliers, two tool calls stopped
+
+Founder confirmed Broward County (see `LEGAL_CHECKLIST.md`/`OPEN_QUESTIONS.md`
+for the resulting update). This session also attempted to retry two
+previously-blocked actions — a Shopify `get-shop-info` check, and (earlier
+in the week) Gmail supplier drafts — and the founder rejected both tool
+calls again. Both are now off-limits until the founder explicitly says
+otherwise; not retrying either on assumption alone.
+
+### Florida sales tax — candy is taxable, unlike most cottage-food goods
+Most home-bakery cottage food items (bread, cookies, whole cakes, sold cold
+for takeaway) are Florida sales-tax exempt. **Candy is not** — it's
+explicitly called out as taxable. Since King & Sepal is a candy bar, it
+needs: free registration with the Florida Department of Revenue as a sales
+tax dealer, and to collect/remit sales tax on every sale (which counts
+toward the $250K cottage-food cap). This hadn't been checked before —
+previous research covered the cottage-food *permitting* side but not the
+*tax* side. Added as step 8 in `LEGAL_CHECKLIST.md`. Sources:
+https://www.floridasalestax.com/taas/taa-15a-016-baked-goods-for-consumption-off-the-/,
+https://handsoffsalestax.com/is-there-sales-tax-on-food-in-florida/.
+
+### Packaging — no-MOQ suppliers for the confirmed minimal/kraft direction
+Now that minimal/kraft is locked in, found four suppliers offering **no
+minimum order quantity** (a better fit for a 30–50 unit first run than
+"low MOQ" suppliers found earlier, some of which still had 100-unit
+minimums): Silver Edge Packaging, Elite Custom Boxes, Kraft Packaging
+Store, OXO Packaging — all compostable/recycled kraft paperboard. None
+contacted; per-unit pricing needs an actual quote. Added to `PACKAGING.md`.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
   poorly) — Florida shipping heat is a real risk to test for.
-- Real supplier quotes — outreach is paused pending founder clarification
-  (see above), not a research gap anymore.
+- Real supplier quotes — cacao outreach is paused pending founder
+  clarification; packaging supplier quotes are open to pursue once ready.
 - A real, manual or professional USPTO trademark search, and a Sunbiz LLC
   name-availability search — both automated attempts failed with 403; both
   need a human, not another automated pass.
@@ -269,6 +298,5 @@ writeup in `PRICING.md`.
   literature-derived percentages.
 - Once a cacao quote lands, check real per-unit cost against the revised
   $7–11/bar price in `PRICING.md`.
-- Which single county (Broward or Miami-Dade) the home kitchen is
-  actually in — needed to finalize the Business Tax Receipt/Home
-  Occupation Permit path in `LEGAL_CHECKLIST.md`.
+- Whether the Broward address is inside a city with its own additional
+  business tax/zoning rules on top of the county process.

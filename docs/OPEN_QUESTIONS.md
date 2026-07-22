@@ -74,3 +74,6 @@ researching around these, but won't resolve them unilaterally.
   inside that law's limits (no wholesale, no interstate shipping, in-state
   online sales only, required label disclaimer) unless the founder decides
   to move to a licensed commercial kitchen.
+- **Shopify: paused, 2026-07-22**. A `get-shop-info` check (just to see
+  whether a store already exists) was rejected by the founder. Not
+  retrying any Shopify tool calls until explicitly told to.

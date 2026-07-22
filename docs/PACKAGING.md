@@ -1,7 +1,8 @@
 # Packaging direction
 
-Not decided yet (see `OPEN_QUESTIONS.md`) — this is a set of concrete options
-to choose between, not a decision made on the founder's behalf.
+**Decided (2026-07-21): minimal/kraft**, per founder confirmation. Details
+below on that direction; the premium/art-forward option is kept for
+reference in case it's revisited for a later drop.
 
 ## What Ffern does, as the reference point
 Compostable mushroom-fiber trays, textured paper tubes, original artwork per
@@ -41,6 +42,25 @@ materials, found via web search — none contacted yet:
 Recommendation for the hand-sell phase (30–50 units): start with option 1 —
 low cost, low MOQ, keeps the $500 budget mostly available for cacao sourcing
 and legal formation. Revisit option 2 for Drop 01 once there's real revenue.
+
+## Minimal/kraft — additional no-MOQ options found (2026-07-21)
+Since minimal/kraft is now the confirmed direction, found more suppliers
+specifically offering **no minimum order quantity** — a better fit than
+some of the "low MOQ" suppliers above for a first run this small (30–50
+units, well under most "startup" MOQ tiers like Eco Custom Packaging's
+100-box minimum):
+- **Silver Edge Packaging** (https://www.silveredgepackaging.com/product/custom-kraft-ecofriendly-chocolate-boxes/)
+  — no MOQ, custom kraft chocolate boxes.
+- **Elite Custom Boxes** (https://www.elitecustomboxes.com/kraft-boxes/) —
+  no MOQ, can order a single box.
+- **Kraft Packaging Store** (https://www.kraftpackagingstore.com/custom-kraft-chocolate-favor-boxes)
+  — low MOQ, explicitly positioned for startups.
+- **OXO Packaging** (https://oxopackaging.com/chocolate-bar-boxes.html) —
+  any quantity, wholesale pricing regardless.
+All four use recycled/compostable kraft paperboard. None have been
+contacted; specific per-unit pricing needs an actual quote request, which
+none of these searches surfaced — worth getting a quote once ready to move
+on this.
 
 ## Shipping in Florida heat — a real cost line, not just a wrapper choice
 Chocolate generally starts melting above ~75°F, and Florida ambient/porch
