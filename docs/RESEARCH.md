@@ -285,6 +285,35 @@ minimums): Silver Edge Packaging, Elite Custom Boxes, Kraft Packaging
 Store, OXO Packaging — all compostable/recycled kraft paperboard. None
 contacted; per-unit pricing needs an actual quote. Added to `PACKAGING.md`.
 
+## 2026-07-23 — insurance cost, draft product labels
+
+No new founder input since yesterday; Shopify and supplier outreach both
+stayed off-limits per the guardrails, so focused on two independent items.
+
+### Insurance
+Cottage food general + product liability insurance (not legally required
+by Florida cottage food law, but commonly recommended) runs roughly
+**$299–800/yr** bundled, via providers like FLIP (Food Liability Insurance
+Program) — typically $1M–4M per-occurrence coverage. Flagged in
+`BUSINESS_PLAN.md` that this is a real budget conflict: LLC + annual
+report + business tax receipt alone already runs close to $414, before
+cacao, packaging, or insurance — insurance at the low end alone could push
+past the ~$500 ceiling. This needs an explicit founder call on whether to
+carry it now or defer until after Drop 01. Sources:
+https://www.fliprogram.com/cottage-food-law-insurance,
+https://www.insuranks.com/cottage-food-insurance.
+
+### Draft product labels
+Wrote template labels for all three flavors in new `LABELS.md`, following
+the required Fla. Stat. § 500.80 elements (business name/address, product
+name, descending-weight ingredients, net weight, allergens, verbatim
+disclaimer) and the draft recipe in `RECIPE_NOTES.md`. Every placeholder
+(address, net weight, final ingredient order) is explicitly flagged as not
+final — this is a structural draft to fill in once the recipe and legal
+entity are locked, not a finished label. Flagged that Hazelnut carries a
+tree-nut allergen that needs real cross-contact handling attention in a
+home kitchen.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -295,8 +324,11 @@ contacted; per-unit pricing needs an actual quote. Added to `PACKAGING.md`.
   name-availability search — both automated attempts failed with 403; both
   need a human, not another automated pass.
 - Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
-  literature-derived percentages.
+  literature-derived percentages — this also feeds directly into
+  finalizing `LABELS.md`.
 - Once a cacao quote lands, check real per-unit cost against the revised
   $7–11/bar price in `PRICING.md`.
 - Whether the Broward address is inside a city with its own additional
   business tax/zoning rules on top of the county process.
+- Whether to carry cottage food liability insurance now (~$299–800/yr) or
+  defer it — a founder budget call, not a research gap.

@@ -13,6 +13,7 @@ Nothing is built or sold yet — this repo is the working plan for getting there
 - [`docs/PACKAGING.md`](docs/PACKAGING.md) — packaging direction options and supplier leads
 - [`docs/PRICING.md`](docs/PRICING.md) — proposed price range and reasoning
 - [`docs/RECIPE_NOTES.md`](docs/RECIPE_NOTES.md) — non-binding first-draft recipe ratios
+- [`docs/LABELS.md`](docs/LABELS.md) — draft product labels per flavor
 - [`docs/marketing/website-copy-draft.md`](docs/marketing/website-copy-draft.md) — first-draft site copy
 - [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md) — decisions only the founder can make
 - [`docs/journal/`](docs/journal/) — dated log of work done on the business, one entry per session

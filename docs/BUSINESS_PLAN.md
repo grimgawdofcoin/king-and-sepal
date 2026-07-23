@@ -47,7 +47,18 @@ Founder-set spend limit: **up to ~$500** for this phase. Known/estimated costs:
 | Home occupation permit | Not required at the Broward County level |
 | Shopify | $5–39/mo |
 | Cacao / cocoa butter | TBD — depends on supplier quote |
-| Insurance | TBD |
+| Packaging (no-MOQ kraft boxes) | TBD — depends on quote, see `PACKAGING.md` |
+| Insurance (optional, not legally required) | $299–800/yr for bundled general + product liability (FLIP is the commonly-cited cottage food provider) |
+
+**Budget tension, flagged 2026-07-22**: LLC ($125) + annual report
+($138.75) + business tax receipt (up to $150) alone is already ~$414 —
+before cacao, packaging, or insurance. Insurance at $299–800/yr would blow
+past the ~$500 ceiling on its own. Florida cottage food law does **not**
+legally require insurance (it's discretionary liability protection, not a
+permit condition) — worth the founder explicitly deciding whether to
+carry it in this phase or defer it until after Drop 01 validates the
+business, given the budget doesn't obviously stretch to cover it alongside
+everything else.
 
 These are planning-stage estimates, not confirmed quotes. Nothing gets spent
 without the founder's explicit go-ahead — see the guardrails in
