@@ -64,6 +64,22 @@ researching around these, but won't resolve them unilaterally.
       at tmsearch.uspto.gov, or a paid clearance service. Needed before any
       public use of the name.
 
+### Pending founder decisions (attempted to ask 2026-07-24, tool rejected)
+This automated session tried to ask these directly via AskUserQuestion —
+the question tool itself was rejected (non-interactive run, no one to
+answer it live). Surfacing them here instead for the next interactive
+session:
+- [ ] **Insurance**: carry cottage food liability coverage now (~$299–800/yr)
+      or defer until after Drop 01? See `BUSINESS_PLAN.md` for the budget
+      tension this creates.
+- [ ] **Registered agent**: founder's own Florida address, or a paid
+      registered-agent service?
+- [ ] **Supplier outreach**: recreate the Gmail drafts to Cocoa Supply/
+      Chocolate Alchemy Wholesale (unsent, for founder review), keep them
+      as markdown only, or hold off entirely?
+- [ ] **Shopify**: pursue store setup/scaffolding now, or hold off until a
+      later phase?
+
 ## Guardrails (confirmed, recorded here so they don't drift)
 - Spend limit: ~$500 for this phase.
 - Outreach: agent may draft supplier/marketing communications, but does not

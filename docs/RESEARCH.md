@@ -314,21 +314,57 @@ entity are locked, not a finished label. Flagged that Hazelnut carries a
 tree-nut allergen that needs real cross-contact handling attention in a
 home kitchen.
 
+## 2026-07-24 — recipe test protocol, drop-mechanics/waitlist research
+
+Attempted to ask the founder about four accumulated pending decisions
+(insurance, registered agent, outreach, Shopify) directly — the question
+tool itself was rejected in this non-interactive automated run (no one to
+answer live). Logged all four in `OPEN_QUESTIONS.md` for the next
+interactive session, and used this pass for independent work instead.
+
+### Recipe test protocol
+`RECIPE_NOTES.md` has been paper formulation only since 2026-07-18 — no
+kitchen testing has actually happened. Wrote a concrete, runnable test
+protocol in new `RECIPE_TEST_PROTOCOL.md`: a dissolve test (piece size,
+drink type, timing, pass/fail criteria), an eat-side texture test, a
+per-flavor check (especially Hazelnut's fat content vs. dissolve), and a
+shipping-heat stability check. Meant to convert "needs kitchen testing"
+from a permanent caveat into an actual result the founder can produce with
+a small test batch, no real spending required beyond what's already
+scoped.
+
+### Drop mechanics and waitlist tooling
+Validated that the Ffern-style drop/scarcity model isn't fragrance-
+specific — SKIMS, Supreme, Nike SNKRS, and Glossier all run variants of
+the same mechanic (small batches, waitlist, scheduled restock instead of
+always-on inventory) successfully across very different product
+categories. Also researched practical waitlist tooling for whenever
+Shopify setup happens: LaunchList (purpose-built drop tool), Waitlister
+(Shopify-focused, cited 30–40% waitlist-to-sale conversion), or a plain
+Klaviyo-embedded signup form. Recommended the simplest option (embedded
+form) for a first drop this small, saving dedicated drop tools for later
+if drop frequency/size grows. Full writeup in new
+`docs/marketing/drop-strategy.md`. Sources:
+https://queue-it.com/blog/product-drop/,
+https://getlaunchlist.com/waitlist-for-ecommerce,
+https://waitlister.me/integrations/shopify.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
-  poorly) — Florida shipping heat is a real risk to test for.
+  poorly) — Florida shipping heat is a real risk to test for; now has a
+  concrete test in `RECIPE_TEST_PROTOCOL.md`.
 - Real supplier quotes — cacao outreach is paused pending founder
   clarification; packaging supplier quotes are open to pursue once ready.
 - A real, manual or professional USPTO trademark search, and a Sunbiz LLC
   name-availability search — both automated attempts failed with 403; both
   need a human, not another automated pass.
-- Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing, not just
-  literature-derived percentages — this also feeds directly into
-  finalizing `LABELS.md`.
+- Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing — now has
+  a runnable protocol in `RECIPE_TEST_PROTOCOL.md`, just needs the founder
+  (or someone) to actually run it.
 - Once a cacao quote lands, check real per-unit cost against the revised
   $7–11/bar price in `PRICING.md`.
 - Whether the Broward address is inside a city with its own additional
   business tax/zoning rules on top of the county process.
-- Whether to carry cottage food liability insurance now (~$299–800/yr) or
-  defer it — a founder budget call, not a research gap.
+- Four pending founder decisions logged in `OPEN_QUESTIONS.md`: insurance,
+  registered agent, supplier outreach handling, and Shopify go-ahead.
