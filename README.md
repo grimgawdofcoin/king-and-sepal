@@ -17,5 +17,6 @@ Nothing is built or sold yet — this repo is the working plan for getting there
 - [`docs/LABELS.md`](docs/LABELS.md) — draft product labels per flavor
 - [`docs/marketing/website-copy-draft.md`](docs/marketing/website-copy-draft.md) — first-draft site copy
 - [`docs/marketing/drop-strategy.md`](docs/marketing/drop-strategy.md) — waitlist mechanics, drop-model validation
+- [`docs/HAND_SELL_VENUES.md`](docs/HAND_SELL_VENUES.md) — where the 30–50 unit hand-sell phase could happen
 - [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md) — decisions only the founder can make
 - [`docs/journal/`](docs/journal/) — dated log of work done on the business, one entry per session

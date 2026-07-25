@@ -349,6 +349,43 @@ https://queue-it.com/blog/product-drop/,
 https://getlaunchlist.com/waitlist-for-ecommerce,
 https://waitlister.me/integrations/shopify.
 
+## 2026-07-25 — hand-sell venues, nutrition-panel exemption confirmed
+
+No new founder input again (four decisions from 2026-07-24 still
+unanswered — this remains a non-interactive automated run, didn't retry
+AskUserQuestion pointlessly). Focused on the one major phase of
+`BUSINESS_PLAN.md` that had never been researched at all.
+
+### Hand-sell venues (Broward County)
+Phase 5, "hand-selling 30–50 units," had zero concrete research behind it
+until now. Found several candidate Broward farmers markets/vendor events
+(Yellow Green Farmers Market, Las Olas Oceanside Park Market, Plantation
+Farmer's Market, Green Market Pompano Beach, Coconut Creek Hometown
+Market, Parkland Farmers' Market, Lauderdale-by-the-Sea Market) plus a
+one-off pop-up example (Pop Up & Shop Up). None contacted; vendor fees,
+application process, and whether each accommodates cottage food sellers
+specifically are all unknown — flagged for a human to actually contact
+them. A cottage-food-specific market directory exists at
+floridacottagefoods.com/farmers-markets but blocked automated fetch (403,
+same pattern as other government/directory sites). Also flagged that some
+markets require proof of liability insurance for vendor booths, which
+would force the still-open insurance decision rather than leaving it
+open — a concrete reason that question matters beyond abstract risk
+tolerance. Recommended a simpler direct/social hand-sell approach over a
+formal market booth, given the small batch size and tight budget. Full
+writeup in new `HAND_SELL_VENUES.md`.
+
+### Nutrition Facts panel — confirmed exempt, with a catch
+Confirmed Florida cottage food operators don't need a Nutrition Facts
+panel (the $250K cottage food cap sits well under the FDA's $500K
+sales-tax-exemption threshold that triggers the requirement). Important
+catch: making *any* voluntary nutritional claim ("low sugar," "gluten
+free," etc.) forfeits that exemption and requires a full panel. Added to
+`LABELS.md`, with a note that this also constrains future marketing copy,
+not just the label itself. Sources: general FL cottage food labeling
+guidance, cross-checked against the FDA's $50K/$500K nutrition-labeling
+exemption thresholds.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -368,3 +405,5 @@ https://waitlister.me/integrations/shopify.
   business tax/zoning rules on top of the county process.
 - Four pending founder decisions logged in `OPEN_QUESTIONS.md`: insurance,
   registered agent, supplier outreach handling, and Shopify go-ahead.
+- Hand-sell venue fees/application requirements — needs a human to
+  actually contact the markets listed in `HAND_SELL_VENUES.md`.

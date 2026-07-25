@@ -31,6 +31,11 @@
 4. **LLC formation + Shopify setup** — legal entity live, store scaffolded.
 5. **Hand-selling 30–50 units** — sell directly (in person / direct outreach)
    before any public launch, to validate the product and gather real feedback.
+   Candidate venues (Broward farmers markets, a one-off pop-up, or a
+   simpler direct/social approach) researched in
+   [`HAND_SELL_VENUES.md`](HAND_SELL_VENUES.md) — none contacted yet, and
+   a market booth may not even be worth it at this small a batch size; see
+   that doc's recommendation.
 6. **Drop 01** — first public, numbered release.
 7. **Ongoing drop cadence** — repeat on a deliberate schedule, not continuous
    restocking.

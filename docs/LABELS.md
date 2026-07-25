@@ -21,6 +21,16 @@ Since King & Sepal is candy (taxable — see `LEGAL_CHECKLIST.md` step 8),
 there's no additional label requirement from that, but it's worth keeping
 in mind that "candy" framing is also what makes the tax rule apply.
 
+**No Nutrition Facts panel required** (confirmed 2026-07-25) — Florida
+cottage food operators are exempt, since the $250K cottage food cap sits
+well under the FDA's $500K exemption threshold. **Exception**: making any
+voluntary nutritional claim on the label or in marketing ("low sugar,"
+"high fiber," "gluten free," etc.) forfeits that exemption and requires a
+full Nutrition Facts panel. Worth keeping in mind for
+`docs/marketing/website-copy-draft.md` too, not just the label itself —
+none of the current draft copy makes this kind of claim, which is correct;
+just flagging it as a constraint to keep respecting as copy evolves.
+
 ## Draft label — French Vanilla
 
 > **KING & SEPAL** — French Vanilla
