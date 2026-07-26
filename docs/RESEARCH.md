@@ -386,6 +386,35 @@ not just the label itself. Sources: general FL cottage food labeling
 guidance, cross-checked against the FDA's $50K/$500K nutrition-labeling
 exemption thresholds.
 
+## 2026-07-26 — unit economics model
+
+Still no new founder input (four decisions from 2026-07-24 remain
+unanswered). Rather than open another disconnected research thread,
+synthesized everything gathered so far — recipe ratios, pricing,
+packaging, budget — into an actual per-bar cost model, to check whether
+the numbers already in the repo are mutually consistent.
+
+### Per-bar cost and margin
+Found real wholesale reference prices: cocoa butter ~$3/lb
+(https://www.selinawamucii.com/insights/prices/united-states-of-america/cocoa-butter/),
+sunflower lecithin ~$3.74/lb (https://velonainc.com/product/sunflower-lecithin-wholesale/).
+Using a working assumption of 1.5oz (42g)/bar (net weight was still
+undecided — flagged as a modeling assumption, not a decision), raw
+ingredient cost comes out to roughly $0.30–0.50/bar, plus an estimated
+$0.75–1.50 for a no-MOQ kraft box and ~$0.10 for a label — call it
+$1.10–2.15/bar all-in. Against the $7–11 working price, that's a healthy
+~70–90% gross margin per bar. Full model in new `UNIT_ECONOMICS.md`.
+
+### The real finding: the hand-sell phase won't recover the setup budget
+Per-bar margin looks fine, but the ~$500 setup budget (LLC, annual report,
+business tax receipt, etc.) is a separate fixed cost. 30–50 units at
+$7–11/bar generates only $210–550 in revenue — roughly the same size as
+the setup budget itself, before even subtracting per-bar costs. This isn't
+a problem exactly (fixed costs are meant to amortize across many future
+drops, not get recovered in the first batch), but it's a meaningful
+expectation-setting finding: the hand-sell phase should be understood as
+validation, not a break-even milestone. Flagged in `BUSINESS_PLAN.md`.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -393,17 +422,19 @@ exemption thresholds.
   concrete test in `RECIPE_TEST_PROTOCOL.md`.
 - Real supplier quotes — cacao outreach is paused pending founder
   clarification; packaging supplier quotes are open to pursue once ready.
+  Both would sharpen `UNIT_ECONOMICS.md` from estimate to real numbers.
 - A real, manual or professional USPTO trademark search, and a Sunbiz LLC
   name-availability search — both automated attempts failed with 403; both
   need a human, not another automated pass.
 - Recipe ratios in `RECIPE_NOTES.md` need actual kitchen testing — now has
   a runnable protocol in `RECIPE_TEST_PROTOCOL.md`, just needs the founder
   (or someone) to actually run it.
-- Once a cacao quote lands, check real per-unit cost against the revised
-  $7–11/bar price in `PRICING.md`.
 - Whether the Broward address is inside a city with its own additional
   business tax/zoning rules on top of the county process.
 - Four pending founder decisions logged in `OPEN_QUESTIONS.md`: insurance,
   registered agent, supplier outreach handling, and Shopify go-ahead.
 - Hand-sell venue fees/application requirements — needs a human to
   actually contact the markets listed in `HAND_SELL_VENUES.md`.
+- Net weight is still just `UNIT_ECONOMICS.md`'s working assumption
+  (1.5oz/42g) — needs an actual founder decision, feeding into `LABELS.md`
+  too.

@@ -12,6 +12,7 @@ Nothing is built or sold yet — this repo is the working plan for getting there
 - [`docs/LEGAL_CHECKLIST.md`](docs/LEGAL_CHECKLIST.md) — step-by-step Florida LLC/permit sequence
 - [`docs/PACKAGING.md`](docs/PACKAGING.md) — packaging direction options and supplier leads
 - [`docs/PRICING.md`](docs/PRICING.md) — proposed price range and reasoning
+- [`docs/UNIT_ECONOMICS.md`](docs/UNIT_ECONOMICS.md) — per-bar cost model, margin, and budget sanity-check
 - [`docs/RECIPE_NOTES.md`](docs/RECIPE_NOTES.md) — non-binding first-draft recipe ratios
 - [`docs/RECIPE_TEST_PROTOCOL.md`](docs/RECIPE_TEST_PROTOCOL.md) — runnable kitchen-test plan
 - [`docs/LABELS.md`](docs/LABELS.md) — draft product labels per flavor

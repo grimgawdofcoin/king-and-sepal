@@ -69,6 +69,14 @@ These are planning-stage estimates, not confirmed quotes. Nothing gets spent
 without the founder's explicit go-ahead — see the guardrails in
 [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
 
+**Per-bar economics, added 2026-07-26**: modeled in
+[`UNIT_ECONOMICS.md`](UNIT_ECONOMICS.md). Short version — per-bar margin
+at the $7–11 price looks healthy (~70–90% gross margin), but the ~$500
+setup budget is a separate fixed cost that the 30–50 unit hand-sell phase
+likely won't fully recover on its own ($210–550 revenue from that phase is
+close to the size of the setup budget itself, before per-bar costs). Worth
+treating the hand-sell phase as validation, not break-even, per that doc.
+
 ## What autonomous work covers vs. requires sign-off
 
 The daily background work on this repo covers: research, drafting
