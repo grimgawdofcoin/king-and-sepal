@@ -79,6 +79,9 @@ session:
       as markdown only, or hold off entirely?
 - [ ] **Shopify**: pursue store setup/scaffolding now, or hold off until a
       later phase?
+- [ ] **Logo**: four AI-generated wordmark candidates are ready for review
+      in `docs/marketing/logo-concepts.md` (2026-07-27) — pick one to
+      refine, request changes, or hold off on logo work for now.
 
 ## Guardrails (confirmed, recorded here so they don't drift)
 - Spend limit: ~$500 for this phase.

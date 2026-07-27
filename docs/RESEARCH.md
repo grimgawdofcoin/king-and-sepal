@@ -415,6 +415,21 @@ drops, not get recovered in the first batch), but it's a meaningful
 expectation-setting finding: the hand-sell phase should be understood as
 validation, not a break-even milestone. Flagged in `BUSINESS_PLAN.md`.
 
+## 2026-07-27 — first visual logo concepts (Canva)
+
+Still no new founder input on the four decisions from 2026-07-24 (now a
+week old). Rather than write another markdown research doc, tried a
+capability not yet used: Canva design generation, connected in this
+session. Generated four AI wordmark logo candidates for King & Sepal,
+based on the `BRAND.md` positioning (Ffern-adjacent restraint, cocoa-brown/
+cream palette, ampersand wordmark). Did not pick one or add any to the
+founder's Canva account — visual identity is squarely the founder's call,
+same principle applied throughout this repo to packaging/pricing/etc.
+Documented all four candidate links in new
+`docs/marketing/logo-concepts.md` and added the logo pick to the pending
+founder decisions list in `OPEN_QUESTIONS.md`. This is the first piece of
+actual visual (not just written) brand content produced.
+
 ## Open research questions for future passes
 - Shelf-stability of a cocoa-butter-based bar at room temperature/shipping
   (melting point too close to ambient = it survives its own value prop
@@ -431,8 +446,9 @@ validation, not a break-even milestone. Flagged in `BUSINESS_PLAN.md`.
   (or someone) to actually run it.
 - Whether the Broward address is inside a city with its own additional
   business tax/zoning rules on top of the county process.
-- Four pending founder decisions logged in `OPEN_QUESTIONS.md`: insurance,
-  registered agent, supplier outreach handling, and Shopify go-ahead.
+- Five pending founder decisions logged in `OPEN_QUESTIONS.md`: insurance,
+  registered agent, supplier outreach handling, Shopify go-ahead, and now
+  the logo pick.
 - Hand-sell venue fees/application requirements — needs a human to
   actually contact the markets listed in `HAND_SELL_VENUES.md`.
 - Net weight is still just `UNIT_ECONOMICS.md`'s working assumption
