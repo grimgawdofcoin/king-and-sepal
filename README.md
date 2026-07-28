@@ -6,6 +6,10 @@ Positioned as a small-batch, exclusive-drop brand in the spirit of Ffern.
 
 Nothing is built or sold yet — this repo is the working plan for getting there.
 
+**Start here: [`docs/STATUS.md`](docs/STATUS.md)** — what's locked in, the
+five decisions currently blocking progress, and the highest-leverage next
+actions, in one page.
+
 - [`docs/BRAND.md`](docs/BRAND.md) — concept, positioning, flavor lineup
 - [`docs/BUSINESS_PLAN.md`](docs/BUSINESS_PLAN.md) — phases, costs, budget, milestones
 - [`docs/RESEARCH.md`](docs/RESEARCH.md) — market and feasibility research
@@ -21,4 +25,5 @@ Nothing is built or sold yet — this repo is the working plan for getting there
 - [`docs/marketing/logo-concepts.md`](docs/marketing/logo-concepts.md) — four AI-generated logo candidates, founder to pick
 - [`docs/HAND_SELL_VENUES.md`](docs/HAND_SELL_VENUES.md) — where the 30–50 unit hand-sell phase could happen
 - [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md) — decisions only the founder can make
+- [`docs/STATUS.md`](docs/STATUS.md) — at-a-glance summary and next actions
 - [`docs/journal/`](docs/journal/) — dated log of work done on the business, one entry per session
